@@ -5,12 +5,20 @@
 
 Here are some ideas to get you started:
 
+
+Hi, I'm [Your Name]!  
+
+🚀 **Front-End Developer | JavaScript | React | Redux**  
 - 🔭 I’m currently working on JS
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 **I specialize in building interactive and responsive web applications.**  
+🌟 **Experienced in JavaScript, HTML, CSS, and modern frameworks like React.**  
+🎨 **Passionate about creating clean, user-friendly UI/UX experiences.**  
+
+### 🔧 **Technologies & Tools I Use:**  
+- 🖥 **Languages:** JavaScript (ES6+), HTML, CSS  
+- ⚛ **Frameworks & Libraries:** React.js, Redux, Tailwind CSS  
+- 🛠 **Tools:** Git, GitHub, VS Code, 
+
+### 📫 **Let's Connect!**  
+https://www.linkedin.com/feed/
 
