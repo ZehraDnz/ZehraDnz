@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-Hi, I'm [Your Name]!  
+Hi, I'm Zehra!  
 
 🚀 **Front-End Developer | JavaScript | React | Redux**  
 - 🔭 I’m currently working on JS
