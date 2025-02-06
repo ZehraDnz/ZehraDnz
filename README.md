@@ -1,12 +1,4 @@
-### Hi there 👋
-
-
-**ZehraDnz/ZehraDnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-Hi, I'm Zehra!  
+###  Hi, I'm Zehra!  
 
 🚀 **Front-End Developer | JavaScript | React | Redux**  
 - 🔭 I’m currently working on JS
